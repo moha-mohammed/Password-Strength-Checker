@@ -17,3 +17,13 @@ A simple Python tool to evaluate the strength of a password based on:
 git clone https://github.com/moha-mohammed/password-strength-checker.git
 cd password-strength-checker
 pip install -r requirements.txt
+
+▶️ Usage
+python checker.py
+
+✅ Example
+Enter a password: P@ssw0rd123!
+Strength: STRONG ✅
+
+🧪 Running Tests
+pytest
