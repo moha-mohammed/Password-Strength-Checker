@@ -1,8 +1,3 @@
-
----
-
-## 🐍 `checker.py`
-```python
 import re
 from colorama import Fore, Style
 
